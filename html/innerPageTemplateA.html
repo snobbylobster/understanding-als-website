@@ -3,39 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Early Symptoms of ALS - Understanding ALS</title>
-    <meta name="description" content="Learn about the early warning signs and symptoms of ALS, including muscle weakness, twitching, and speech changes. Evidence-based information for patients and caregivers.">
+    <title>Early Signs and Symptoms of ALS - Understanding ALS</title>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/css/stylesClaude7.css">
+    <!-- Make sure this path matches your actual CSS file location -->
+    <link rel="stylesheet" href="stylesClaude7.css">
+    <!-- Additional page-specific styles -->
+    <style>
+        /* Emergency backup styles in case main CSS fails to load */
+        .content-wrapper {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .content-container {
+            display: grid;
+            grid-template-columns: 70% 30%;
+            gap: 30px;
+            margin-top: 20px;
+        }
+        
+        .main-content {
+            background: white;
+            padding: 30px;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .key-points {
+            background: #F5E6D3;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .sidebar {
+            background: white;
+            padding: 20px;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        @media (max-width: 768px) {
+            .content-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 <body>
-    <header class="header">
-        <nav class="nav-container">
-            <a href="/" class="logo">
-                <span class="logo-part-1">Understanding</span><span class="logo-part-2">ALS</span>
-            </a>
-            <button class="mobile-menu-btn" aria-label="Toggle navigation menu">☰</button>
-            <div class="nav-links">
-                <a href="/about-als">About ALS</a>
-                <a href="/als-drugs-treatment-therapy">Treatment & Care</a>
-                <a href="/als-research">ALS Research</a>
-                <a href="/als-specialist-doctors">Find a Doctor</a>
-                <a href="/news">News</a>
-            </div>
-        </nav>
-    </header>
-
-    <div class="breadcrumb">
-        <div class="nav-container">
-            <a href="/">Home</a> &gt;
-            <a href="/symptoms">Symptoms</a> &gt;
-            <span>Early Signs & Symptoms</span>
-        </div>
-    </div>
-
+    <!-- Keep your existing header -->
+    
     <main class="content-wrapper">
         <div class="content-container">
-            <!-- Main Content Column -->
+            <!-- Main Content -->
             <article class="main-content">
                 <h1>Early Signs and Symptoms of ALS</h1>
                 
@@ -52,99 +73,21 @@
                     </ul>
                 </div>
 
-                <section>
-                    <h2>Common Early Symptoms</h2>
-                    <p>The initial signs of ALS can be subtle and vary from person to person. Common early symptoms may include:</p>
-                    <!-- Content sections with real medical info would go here -->
-                </section>
-
-                <section>
-                    <h2>When to See a Doctor</h2>
-                    <p>If you experience any of the following symptoms, consult a healthcare provider...</p>
-                </section>
-
-                <section class="citations">
-                    <h2>References</h2>
-                    <ol>
-                        <li>Smith J, et al. (2024). Early detection of ALS symptoms. Neurology Today, 45(2), 23-29.</li>
-                        <li>National Institute of Neurological Disorders and Stroke. (2024). ALS Fact Sheet.</li>
-                    </ol>
-                </section>
-
-                <section class="expert-reviewed">
-                    <div class="reviewer-info">
-                        <img src="/images/placeholder-doctor.jpg" alt="Dr. Jane Smith" class="reviewer-photo">
-                        <div class="reviewer-details">
-                            <p><strong>Expert Reviewed By:</strong></p>
-                            <p>Dr. Jane Smith, MD</p>
-                            <p>Board Certified Neurologist</p>
-                            <p>Last reviewed: February 12, 2025</p>
-                        </div>
-                    </div>
-                </section>
+                <!-- Rest of your content -->
             </article>
 
             <!-- Sidebar -->
             <aside class="sidebar">
-                <div class="content-box">
-                    <h2>Related Information</h2>
-                    <div class="content-links">
-                        <a href="/symptoms/bulbar-onset">Bulbar Onset ALS</a>
-                        <a href="/symptoms/limb-onset">Limb Onset ALS</a>
-                        <a href="/symptoms/progression">Disease Progression</a>
-                    </div>
-                </div>
-
-                <div class="content-box">
-                    <h2>Find Support</h2>
-                    <div class="content-links">
-                        <a href="/find-specialist">Find an ALS Specialist</a>
-                        <a href="/support-groups">Support Groups</a>
-                        <a href="/clinical-trials">Clinical Trials</a>
-                    </div>
-                </div>
-
-                <div class="quick-facts">
-                    <h3>Quick Facts About ALS Symptoms</h3>
-                    <ul>
-                        <li>Symptoms typically start in one region</li>
-                        <li>Early diagnosis is crucial</li>
-                        <li>Regular monitoring helps track progression</li>
-                    </ul>
-                </div>
+                <h2>Related Information</h2>
+                <ul>
+                    <li><a href="/symptoms/bulbar-onset">Bulbar Onset ALS</a></li>
+                    <li><a href="/symptoms/limb-onset">Limb Onset ALS</a></li>
+                    <li><a href="/symptoms/progression">Disease Progression</a></li>
+                </ul>
             </aside>
         </div>
     </main>
 
-    <footer class="footer">
-        <div class="footer-container">
-            <a href="/" class="footer-logo">
-                <span class="footer-logo-part-1">Understanding</span><span class="footer-logo-part-2">ALS</span>
-            </a>
-            <div class="footer-content">
-                <div class="footer-primary-links">
-                    <a href="/about">About Us</a>
-                    <span>|</span>
-                    <a href="/contact">Contact Us</a>
-                    <a href="/donate" class="donate-button">
-                        <span class="heart-icon">♥</span> DONATE
-                    </a>
-                </div>
-                <div class="footer-secondary-links">
-                    <a href="/legal/terms.html">Terms and Conditions</a>
-                    <span>|</span>
-                    <a href="/legal/privacy.html">Privacy Policy</a>
-                    <span>|</span>
-                    <a href="/legal/sitemap.html">Site Map</a>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <script>
-        document.querySelector('.mobile-menu-btn').addEventListener('click', function() {
-            document.querySelector('.nav-links').classList.toggle('active');
-        });
-    </script>
+    <!-- Keep your existing footer -->
 </body>
 </html>

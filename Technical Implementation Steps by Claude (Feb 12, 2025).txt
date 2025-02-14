@@ -1,0 +1,96 @@
+CLAUDE.ai RECOMMENDS THIS IN THE ROADMAP:
+
+
+- Implement technical SEO elements:
+  * XML sitemap
+  * Robots.txt
+  * Schema markup for medical content
+  * Set up Google Search Console
+  * Configure 301 redirect from .com to .org
+
+==========================================
+CLAUDE.ai explains the above steps further for me: 
+- - - - - - - - - - - - - - - - - - - - - - - - 
+Let me break this down:
+
+Critical information for robots.txt:
+
+
+Allow search engines to crawl all important content paths (e.g., /what-is-als/, /symptoms/, etc.)
+Disallow duplicate content paths or admin areas
+Specify the path to your XML sitemap
+For medical content specifically, ensure crawlers can access:
+
+Research pages
+Treatment information
+Clinical trial data
+Doctor/specialist directories
+Patient resources
+
+
+
+
+Purpose of XML sitemap:
+
+
+Acts as a roadmap for search engines to find all important pages
+Helps search engines understand your site's structure and hierarchy
+Indicates content relationships (e.g., how symptom pages relate to treatment pages)
+Signals content priority and update frequency
+Particularly important for large medical sites with deep content hierarchies
+Helps ensure critical medical information gets indexed properly
+
+
+Schema markup for medical content:
+
+
+Schema markup is structured data code that helps search engines understand context
+For medical content, it helps establish:
+
+Medical condition definitions
+Symptoms and treatments
+Clinical trial information
+Doctor/facility credentials
+Medical procedure details
+
+
+Benefits:
+
+Can trigger rich snippets in search results
+Establishes medical authority
+Helps search engines understand complex medical relationships
+Can improve visibility in health-related searches
+
+
+
+
+Google Search Console purpose:
+
+
+Monitors how Google sees and indexes your medical content
+Alerts you to any crawling or indexing issues
+Shows which medical terms/queries bring users to your site
+Provides data on:
+
+Click-through rates for medical searches
+Mobile usability issues
+Core Web Vitals performance
+Index coverage
+Security issues
+
+
+Allows you to:
+
+Submit new/updated content for indexing
+Monitor site performance in health-related searches
+Fix technical issues affecting visibility
+Verify ownership and authority of medical content
+
+
+
+For UnderstandingALS.org specifically, these elements are crucial because:
+
+Medical content requires extra trust signals for search engines
+Users seeking ALS information need accurate, accessible content
+Proper indexing ensures critical information reaches those who need it
+Technical optimization helps compete with established medical sites

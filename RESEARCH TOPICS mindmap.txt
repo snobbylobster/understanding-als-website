@@ -1,0 +1,156 @@
+ALS RESEARCH TOPICS (Mindmap style)
+
+ME: Based on everything you can access, delineate for me the topics of focus of researchers studying ALS. Many are in the drug therapy research, many are in the genetics of ALS research, many labs are studying familial ALS, very few are looking into etiology. Include historical areas of focus in your topics list. Create subtopics if necessary. Cite at least 1 researcher name or their lab names or universities they came from per topic if that is possible and findable. I'd like to create a mind map of research areas.
+
+
+========================================
+
+Here’s a **comprehensive breakdown of ALS research topics** based on historical and current areas of focus, along with **notable researchers, labs, and institutions** working in each field. This will serve as a great foundation for your **ALS research mind map**.
+
+---
+
+# **🔬 Major Research Areas in ALS**
+## **1️⃣ Drug Therapy & Treatment Research**
+> **Focus:** Developing pharmacological interventions to slow disease progression, alleviate symptoms, and improve patient outcomes.
+
+### **🔹 FDA-Approved & Experimental Drug Research**
+- **Riluzole & Edaravone**: Only two FDA-approved drugs; ongoing research into mechanisms and effectiveness.
+- **Anti-Inflammatory Agents**: Targeting neuroinflammation to slow progression (e.g., ibudilast, masitinib).
+- **Neuroprotective Compounds**: CNM-Au8 (gold nanocrystals), AMX0035 (combination therapy for mitochondrial and ER stress).
+- **Stem Cell & Regenerative Medicine Approaches**.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Merit Cudkowicz** (Harvard/Massachusetts General Hospital) – Leads major ALS clinical trials.
+- **Dr. Richard Bedlack** (Duke University) – Runs ALS Reversals research program.
+- **Dr. Jonathan Glass** (Emory University) – Works on biomarker-based clinical trial optimization.
+
+---
+
+## **2️⃣ Genetics & Molecular Biology of ALS**
+> **Focus:** Investigating **familial ALS (fALS) and sporadic ALS (sALS)** genetic mutations, epigenetic mechanisms, and gene therapies.
+
+### **🔹 Major ALS-Linked Genes**
+- **C9orf72 (Most common genetic mutation in ALS)**  
+- **SOD1, FUS, TARDBP (TDP-43 misfolding protein)**  
+- **Other rare mutations: NEK1, ANXA11, TBK1, CHCHD10**
+
+### **🔹 Genetic Pathways & ALS Onset**
+- RNA-binding protein dysfunction (TDP-43 mislocalization).
+- Repeat-associated non-AUG (RAN) translation in C9orf72.
+- Mitochondrial DNA mutations affecting ALS risk.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Bryan Traynor** (NIH/National Institute on Aging) – Discovered **C9orf72 mutation** as the most common ALS genetic cause.
+- **Dr. Robert Baloh** (Cedars-Sinai Medical Center) – Investigates RNA-binding protein dysfunction.
+- **Dr. Rosa Rademakers** (Mayo Clinic) – Studies novel ALS-linked genetic risk factors.
+
+---
+
+## **3️⃣ Familial vs. Sporadic ALS**
+> **Focus:** Understanding why **90% of ALS cases are sporadic** while **10% are familial**, and identifying shared vs. unique pathways.
+
+### **🔹 Familial ALS (fALS)**
+- Accounts for ~10% of cases.
+- Often linked to **C9orf72, SOD1, FUS, TARDBP mutations**.
+- Inherited in an **autosomal dominant** manner.
+
+### **🔹 Sporadic ALS (sALS)**
+- No clear genetic link but likely influenced by **environmental and epigenetic factors**.
+- Some cases share genetic risk factors with fALS.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Teepu Siddique** (Northwestern University) – Early pioneer in ALS genetics, co-discovered **SOD1 mutations**.
+- **Dr. Ammar Al-Chalabi** (King’s College London) – Studies genetic-environmental interplay in sporadic ALS.
+
+---
+
+## **4️⃣ Environmental Risk Factors & Etiology**
+> **Focus:** Investigating external triggers (e.g., toxins, trauma, viral infections) that might **initiate ALS in genetically predisposed individuals**.
+
+### **🔹 ALS & Environmental Correlations**
+- Heavy metal exposure (**lead, mercury, pesticides**).
+- Military service (**Gulf War ALS risk 2x higher**).
+- Viral infections (**retroviral activation in ALS neurons**).
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Elijah Stommel** (Dartmouth-Hitchcock Medical Center) – Studied ALS clustering in lakes with **cyanobacteria neurotoxins**.
+- **Dr. Michael Strong** (University of Western Ontario) – Explores viral triggers of ALS.
+
+---
+
+## **5️⃣ Neuroinflammation & Immune System Involvement**
+> **Focus:** Understanding how **activated microglia and astrocytes contribute to ALS progression**.
+
+### **🔹 Key Areas of Study**
+- **Microglial activation** in ALS brain tissue.
+- **Neurotoxic vs. neuroprotective immune responses**.
+- **Cytokine & chemokine involvement in motor neuron degeneration**.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Stanley Appel** (Houston Methodist) – Leading work on **immune system modulation in ALS**.
+
+---
+
+## **6️⃣ RNA Biology & ALS**
+> **Focus:** Investigating how **RNA processing errors contribute to ALS**, especially in **C9orf72, TARDBP, and FUS mutations**.
+
+### **🔹 Areas of Investigation**
+- TDP-43 dysfunction in **nuclear-cytoplasmic transport**.
+- RAN translation and toxic dipeptides in **C9orf72 ALS**.
+- **RNA splicing errors leading to ALS progression**.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Gene Yeo** (UC San Diego) – Specializes in RNA-binding protein dysfunction.
+
+---
+
+## **7️⃣ Stem Cell & Regenerative Therapy Approaches**
+> **Focus:** Using **stem cells to replace lost motor neurons or provide neuroprotective factors**.
+
+### **🔹 Stem Cell Therapy in ALS**
+- **Neural progenitor cell transplantation**.
+- **Induced pluripotent stem cells (iPSCs)** from ALS patients.
+- **Challenges:** Immune rejection, proper integration into motor circuits.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Eva Feldman** (University of Michigan) – Leads **stem cell-based ALS clinical trials**.
+
+---
+
+## **8️⃣ Biomarkers & ALS Diagnostics**
+> **Focus:** Identifying **fluid-based and imaging biomarkers** for **early ALS diagnosis and tracking disease progression**.
+
+### **🔹 Current ALS Biomarker Efforts**
+- **Neurofilament light chain (NFL) levels** in cerebrospinal fluid.
+- **Advanced PET imaging to track TDP-43 aggregates**.
+- **Blood-based transcriptomic signatures**.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Martin Turner** (University of Oxford) – Leading work on **biomarkers & ALS diagnostics**.
+
+---
+
+## **9️⃣ Emerging ALS Research & Future Directions**
+> **Focus:** Novel **gene-editing, AI-driven drug discovery, and nanomedicine applications**.
+
+### **🔹 AI & Computational Biology in ALS**
+- **Machine learning for drug repurposing**.
+- **AI-based predictive models for ALS risk assessment**.
+
+### **🔹 CRISPR & Gene Therapy**
+- **Gene silencing for SOD1-linked ALS**.
+- **CRISPR-Cas9 experiments to correct C9orf72 repeat expansions**.
+
+📌 **Key Researcher & Lab**:  
+- **Dr. Clotilde Lagier-Tourenne** (Harvard) – Investigating **CRISPR-based ALS therapies**.
+
+---
+
+# **🔗 Final Thoughts: Structuring the ALS Research Mind Map**
+This breakdown can be structured into a **mind map** with:
+✅ **Major research areas as main branches**  
+✅ **Key labs and researchers as nodes**  
+✅ **Subtopics detailing active studies and methodologies**  
+
+Would you like me to **help visualize this with an actual mind map diagram**? 🎯
+

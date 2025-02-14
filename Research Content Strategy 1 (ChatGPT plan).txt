@@ -1,0 +1,57 @@
+RESEARCH CONTENT STRATEGY (per ChatGPT):
+
+
+ME asking ChatGPT:  Let's now pivot to thinking through the research side of things. Consider yourself an early-career PhD candidate who is considering going into ALS. You want to familiarize yourself with the research, but you need more than a layman's view of things. You expect to go to a website with deep explanations for scientists that use the same language as peer reviewed research papers. For example, you are curious about the "mechanisms of action" of ALS, whatever statistical analyses has been done on links to environmental correlations, global incidence and prevalence rates, and even emerging research. What could be the top search terms you would be typing into Google?
+
+===================================
+
+ChatGPT's response.
+
+As an **early-career PhD candidate exploring ALS research**, you would likely search for terms that reflect the **scientific complexity, statistical analyses, and emerging hypotheses** surrounding the disease. Below are **20 high-value research-oriented search queries** that UnderstandingALS.org should target to attract scientists and researchers.
+
+---
+
+## **🔬 ALS Mechanisms & Pathophysiology**
+1. **ALS mechanisms of action**  
+2. **Pathophysiology of ALS**  
+3. **Molecular mechanisms of ALS progression**  
+4. **Role of oxidative stress in ALS**  
+5. **Neuroinflammation and ALS pathogenesis**  
+6. **Genetic mutations linked to ALS (C9orf72, SOD1, TARDBP, FUS)**  
+
+---
+
+## **📊 Epidemiology & Statistical Analysis**
+7. **ALS incidence and prevalence worldwide**  
+8. **ALS epidemiology trends 2025**  
+9. **Environmental risk factors for ALS**  
+10. **ALS and heavy metal exposure correlation**  
+11. **Military service and ALS risk statistical analysis**  
+12. **ALS geographic distribution and clustering**  
+
+---
+
+## **🧬 Genetics & Biomarkers**
+13. **ALS genetic predisposition and heritability**  
+14. **Biomarkers for ALS early detection**  
+15. **Epigenetic modifications in ALS patients**  
+16. **Single-cell RNA sequencing in ALS research**  
+
+---
+
+## **🧪 Emerging Research & Experimental Therapies**
+17. **ALS clinical trial updates 2025**  
+18. **Stem cell therapy for ALS: latest research**  
+19. **CRISPR gene editing for ALS treatment**  
+20. **Gut microbiome and ALS: latest studies**  
+
+---
+
+## **Why These Keywords?**
+These terms reflect **how scientists search for ALS research**—they align with **peer-reviewed language, statistical modeling, and experimental breakthroughs**. To **rank for these**, UnderstandingALS.org should:
+- Provide **deep-dive research articles** with **citations to PubMed & NIH papers**  
+- Use **ScholarlyArticle schema** to structure research content  
+- Offer **downloadable white papers & statistical reports**  
+- Keep a **real-time research updates page** to track **clinical trials and emerging hypotheses**  
+
+Would you like me to **outline a research-focused content strategy** to systematically target these queries? 🚀

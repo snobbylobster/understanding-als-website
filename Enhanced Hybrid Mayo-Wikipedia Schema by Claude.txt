@@ -1,0 +1,87 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["MedicalWebPage", "ScholarlyArticle"],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.understandingals.org/what-is-als"
+  },
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "Amyotrophic Lateral Sclerosis",
+    "alternateName": ["ALS", "Lou Gehrig's Disease", "Motor Neurone Disease (MND)"],
+    "description": "A rare, terminal neurodegenerative disorder affecting motor neurons in the brain and spinal cord",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "G12.21",
+      "codingSystem": "ICD-10"
+    },
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "FDA-approved ALS treatments",
+      "drug": [
+        {
+          "@type": "Drug",
+          "name": "Riluzole",
+          "relevantSpeciality": "Neurology"
+        },
+        {
+          "@type": "Drug",
+          "name": "Edaravone",
+          "relevantSpeciality": "Neurology"
+        }
+      ]
+    }
+  },
+  "citation": [
+    {
+      "@type": "MedicalScholarlyArticle",
+      "headline": "ALS Disease Mechanisms",
+      "author": {"@type": "Organization", "name": "National Institute of Neurological Disorders and Stroke"},
+      "citation": "PMID: XXXXX"
+    }
+  ],
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "signOrSymptom": [
+      {
+        "@type": "MedicalSymptom",
+        "name": "Muscle weakness",
+        "associatedAnatomy": {
+          "@type": "AnatomicalStructure",
+          "name": "Motor neurons"
+        }
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "Muscle atrophy"
+      }
+    ],
+    "epidemiology": {
+      "@type": "epidemiologicalStatistic",
+      "populationtype": "Global",
+      "value": "Approximately 5 per 100,000 adults"
+    }
+  },
+  "reviewedBy": {
+    "@type": "MedicalOrganization",
+    "name": "Understanding ALS Medical Review Board",
+    "member": [
+      {
+        "@type": "Physician",
+        "medicalSpecialty": "Neurology",
+        "certification": "American Board of Psychiatry and Neurology"
+      }
+    ]
+  },
+  "citation": [
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Current research in ALS pathogenesis",
+      "publisher": "Nature Neuroscience",
+      "datePublished": "2024"
+    }
+  ],
+  "lastReviewed": "2025-02-12"
+}
+</script>

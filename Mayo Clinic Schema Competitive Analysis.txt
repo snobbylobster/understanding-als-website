@@ -1,0 +1,59 @@
+MAYO CLINIC SCHEMA - Top ranking ALS page on Google
+
+Claude.ai says:
+
+===================================
+I can analyze the Mayo Clinic page and provide insights into schema strategy.
+
+Let me check Mayo Clinic's schema implementation:
+
+Based on Mayo Clinic's #1 ranking and what I can see from their page structure, here are key insights for our schema strategy:
+
+1. Mayo Clinic's Advantages:
+- Domain Authority: They're a renowned medical institution
+- Content Organization: Clear hierarchical structure
+- Medical E-A-T signals: Clear medical authorship and review process
+- Rich Medical Schema: They're likely using comprehensive medical schema markup
+
+2. Strategy to Compete:
+- Implement MORE detailed schema than Mayo Clinic:
+  * Include ICD-10 codes (which I don't see on their page)
+  * Add clinical trial references
+  * Include more specific medical entity relationships
+  * Add research paper citations in schema
+  * Include more detailed medical condition stages
+  * Add schema for patient resources and support groups
+
+Let me create an enhanced schema example that would go beyond Mayo's implementation:
+
+Key differences in our enhanced schema approach:
+
+1. More Comprehensive Medical Coding:
+- Including both ICD-9 and ICD-10 codes
+- Adding medical specialty relationships
+- Including clinical guideline references
+
+2. Deeper Disease Information:
+- Detailed staging information
+- Related drug information
+- Diagnostic procedure details
+
+3. Authority Signals:
+- Citations to medical literature
+- References to recognizing authorities
+- Links to international organizations
+
+4. Better Content Organization:
+- Clear stage progression
+- Multiple audience types
+- Comprehensive drug information
+
+To compete with Mayo Clinic, we should:
+1. Implement this enhanced schema across ALL pages
+2. Create unique schema variations for each content type
+3. Keep schema fresh with regular updates
+4. Include more research citations than Mayo
+5. Add more detailed patient resource schema
+6. Include clinical trial schema references
+
+Would you like me to create schema templates for other page types in our site structure?

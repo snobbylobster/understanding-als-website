@@ -1,0 +1,19 @@
+digraph {
+	size=10
+	ALS [label="Suspected ALS Case" fillcolor=lightblue shape=ellipse style=filled]
+	MMN [label="Multifocal Motor Neuropathy
+(Anti-GM1 test)" fillcolor=lightgray shape=box]
+	CSM [label="Cervical Myelopathy
+(MRI for spinal compression)" fillcolor=lightgray shape=box]
+	MG [label="Myasthenia Gravis
+(Fluctuating weakness, fatigue)" fillcolor=lightgray shape=box]
+	PLS [label="Primary Lateral Sclerosis
+(No LMN involvement)" fillcolor=lightgray shape=box]
+	SMA [label="Spinal Muscular Atrophy
+(SMN1 gene test)" fillcolor=lightgray shape=box]
+	ALS -> MMN
+	ALS -> CSM
+	ALS -> MG
+	ALS -> PLS
+	ALS -> SMA
+}

@@ -1,0 +1,17 @@
+OVERVIEW: The ultimate goal is to be the leading internet authority on ALS by providing a comprehensive one-stop shop of useful information to those searching for ALS information. 
+
+URL:  www.UnderstandingALS.org. I also bought UnderstandingALS.com which I need to redirect to UnderstandingALS.org.
+
+HOW TO BE THE WEB'S #1 SITE ON ALS: To accomplish this, the site must be content heavy with hundreds or even a thousand pages or items or sections in order to gain authority to the search engines. 
+
+Secondly, the site must be SEO-optimized: the content must be well organized and pages/sections/items named according to SEO best practices on naming things to prove authority.
+
+Thirdly, it must increase authority by having such content that will be linked to externally. 
+
+UPLOADING PARADOX: The website must be updated on a regular basis to impress Google's indexing algorithm. However, in keeping Google's indexing practices in mind, we have to  find the best updating and uploading strategy in the initial stages because we can't upload everything at once as that takes time to compile thousands of pieces of data. But the AGE of a website is also a factor so we also cannot wait until we have 90% of the data. The uploading strategy here must be smart.
+
+AUDIENCE: Since ALS is a rare disease, this audience will be mostly people in the ALS community like patients and their families and caregivers directly affected by ALS, as well as healthcare professionals and research scientists studying it. The content 
+
+RESPONSIVENESS: Should be mobile responsive. Use mostly typical breakpoints except for the width on desktop should be 1100 not 1200 px wide. 
+
+EXTERNAL LINKS: At minimum, must include links to published research especially published papers downloadable from authority organizations like the NIH. In the same way Wikipedia pages have citations and references on the bottom, this must have a robust internal and external linking structure.

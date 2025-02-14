@@ -1,0 +1,73 @@
+MAYO CLINIC vs. WIKIPEDIA - Comparative Analysis
+
+Internal Note: For Google search query "What is ALS", Mayo Clinic's page ranks #1 while Wikipedia ranks #10. We need to gain insights from both.
+
+=======================================
+Claude.ai says (Feb 12, 2025):
+
+Let me analyze both Wikipedia's and Mayo Clinic's approaches to help inform our strategy.
+
+
+
+Key Competitive Analysis:
+
+1. Content Structure Differences:
+- Mayo Clinic: Uses a medical-first approach with clinical sections (Symptoms, Diagnosis, Treatment)
+- Wikipedia: Uses an encyclopedia approach with extensive citations and academic structure
+- Our Strategy: Should combine both - medical authority like Mayo + comprehensive references like Wikipedia
+
+2. Key Schema Advantages:
+- Mayo Clinic:
+  * MedicalWebPage schema type
+  * Clear medical institution authority signals
+  * Structured breadcrumbs
+  * Professional medical navigation
+
+- Wikipedia:
+  * Article schema type
+  * Extensive citation markup
+  * Strong internal linking structure 
+  * Comprehensive cross-references
+
+3. Notable SEO Insights:
+- Mayo Clinic ranks #1 despite having less detailed content than Wikipedia because:
+  * Stronger medical E-A-T signals
+  * Direct medical authority
+  * Clear clinical purpose
+  * Professional medical schema
+
+- Wikipedia ranks lower but maintains relevance through:
+  * Extensive citations
+  * Comprehensive coverage
+  * Strong internal linking
+  * Regular updates
+
+Let me create an enhanced schema that combines the best of both approaches:
+
+Strategic Recommendations:
+
+1. Hybrid Approach:
+- Use MedicalWebPage schema like Mayo Clinic
+- Include extensive citations like Wikipedia
+- Add more detailed medical entity relationships than both
+- Include both clinical and academic references
+
+2. Content Enhancement:
+- Create comprehensive citation system
+- Include medical review board information
+- Add detailed epidemiology data
+- Include multiple international disease classifications
+
+3. Authority Building:
+- Include medical review board credentials
+- Add clinical guideline references
+- Link to published research
+- Reference international medical organizations
+
+4. Technical Implementation:
+- Use nested schema relationships
+- Include multiple schema types where appropriate
+- Add extensive cross-referencing
+- Update schema regularly with new research
+
+Would you like me to create specific schema templates for different sections of our site based on this hybrid approach?
